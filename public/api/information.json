@@ -1,0 +1,31 @@
+{
+    "firstName": "Dhivyan",
+    "lastName": "Sureshkumar",
+    "fullName": "Dhivyan Sureshkumar",
+    "thumbImage": "/images/div.png",
+    "largeImage": "/images/div.jpg",
+    "bio": "I am a student at Monash University studying Computer Science and Commerce, looking to pursue my passion in data science and software engineering.",
+    "age": 27,
+    "nationality": "American",
+    "languages": [
+        "English",
+        "French"
+    ],
+    "address": "121 King Street, Melbourne, United States",
+    "freelance": "Available",
+    "socialAddress": {
+        "facebook": "https://www.facebook.com/dhivyan.sureshkumar/",
+        "twitter": "https://twitter.com",
+        "github": "https://github.com/dhivyan27?tab=repositories",
+        "linkedin": "https://www.linkedin.com/in/dhivyan-sureshkumar-0192a7273/",
+        "dribbble": "https://dribbble.com"
+    },
+    "phoneNumbers": [
+        "+012-3456-7891",
+        "+012-3456-7892"
+    ],
+    "emailAddress": [
+        "demomail@demo.com",
+        "demomail2@demo.com"
+    ]
+}

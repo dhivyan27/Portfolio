@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "title": "Attacking an Artificial Neural-Network ",
+        "subtitle": "Python, Neural-Networks, Image Processing",
+        "coverimage": "/images/portfolios/portfolio-image-19.jpg",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://github.com/dhivyan27/Attacking-an-Artificial-Neural-Network",
+        "filters": ["eng"]
+    },
+    {
+        "id": 2,
+        "title": "Parallel String Matching ",
+        "subtitle": "C, Parallel Programming",
+        "coverimage": "/images/portfolios/portfolio-image-2.jpg",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://github.com/dhivyan27/Parallel-String-Matching",
+        "filters": ["eng"]
+    },
+    {
+        "id": 3,
+        "title": "Rougelike Elden-Ring",
+        "subtitle": "Java, Game-Design, Object-oriented-programming",
+        "coverimage": "/images/portfolios/portfolio-image-3.jpg",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://github.com/dhivyan27/Rougelike-Elden-Ring",
+        "filters": ["eng"]
+    },
+    {
+        "id": 4,
+        "title": "Global Country Information Visualisation ",
+        "subtitle": "HTML, CSS, Javascript",
+        "coverimage": "/images/portfolios/portfolio-image-4.jpg",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://dhivyan27.github.io/Global-Country-Information-Visualisation/",
+        "filters": ["data"]
+    },
+    {
+        "id": 5,
+        "title": "Car Insurance Fraud Detection",
+        "subtitle": "Excel, Regression, Statistical Modelling & Analysis",
+        "coverimage": "/images/portfolios/portfolio-image-5.jpg",
+        "imagegallery": false,
+        "videogallery": false,
+        "filters": ["data"]
+    }
+]

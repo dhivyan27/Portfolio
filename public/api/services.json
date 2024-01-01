@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Software Engineering",
+        "text": "I find a profound sense of fulfillment in Software Engineering, delving into the intricate layers of coding and system design, and bringing to life efficient and innovative solutions.",
+        "icon": "/icons/code-s-slash-line.svg"
+    },
+    {
+        "id": 2,
+        "title": "Machine Learning",
+        "text": "My enthusiasm for Machine Learning stems from a desire to unravel complex algorithms and harness the power of data to create intelligent systems that can learn and adapt.",
+        "icon": "icons/bar-chart.svg"
+    },
+    {
+        "id": 3,
+        "title": "Data Science",
+        "text": "In Data Science, I am captivated by the challenge of extracting meaningful insights from vast datasets, using statistical models and analytics to unlock patterns and drive informed decisions.",
+        "icon": "/icons/pie-chart.svg"
+    }
+]

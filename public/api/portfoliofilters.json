@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Engineering",
+        "value": "eng"
+    },
+    {
+        "id": 2,
+        "title": "Data",
+        "value": "data"
+    }
+]
