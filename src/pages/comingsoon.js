@@ -5,7 +5,7 @@ const ComingSoon = () => {
   return (
     <Layout2>
       <Head>
-        <title>Coming Soon - Bieber - React Personal Portfolio Template</title>
+        <title>Blogs - dhivyansureshkumar.com</title>
       </Head>
 
       {/* Start Coming Soon Section */}

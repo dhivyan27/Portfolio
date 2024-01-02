@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Attacking an Artificial Neural-Network ",
         "subtitle": "Python, Neural-Networks, Image Processing",
-        "coverimage": "/images/portfolios/portfolio-image-19.jpg",
+        "coverimage": "/images/portfolios/ann.png",
         "imagegallery": false,
         "videogallery": false,
         "url": "https://github.com/dhivyan27/Attacking-an-Artificial-Neural-Network",
@@ -13,7 +13,7 @@
         "id": 2,
         "title": "Parallel String Matching ",
         "subtitle": "C, Parallel Programming",
-        "coverimage": "/images/portfolios/portfolio-image-2.jpg",
+        "coverimage": "/images/portfolios/parallel.png",
         "imagegallery": false,
         "videogallery": false,
         "url": "https://github.com/dhivyan27/Parallel-String-Matching",
@@ -23,7 +23,7 @@
         "id": 3,
         "title": "Rougelike Elden-Ring",
         "subtitle": "Java, Game-Design, Object-oriented-programming",
-        "coverimage": "/images/portfolios/portfolio-image-3.jpg",
+        "coverimage": "/images/portfolios/eldenring.png",
         "imagegallery": false,
         "videogallery": false,
         "url": "https://github.com/dhivyan27/Rougelike-Elden-Ring",
@@ -33,7 +33,7 @@
         "id": 4,
         "title": "Global Country Information Visualisation ",
         "subtitle": "HTML, CSS, Javascript",
-        "coverimage": "/images/portfolios/portfolio-image-4.jpg",
+        "coverimage": "/images/portfolios/global.png",
         "imagegallery": false,
         "videogallery": false,
         "url": "https://dhivyan27.github.io/Global-Country-Information-Visualisation/",
@@ -43,9 +43,23 @@
         "id": 5,
         "title": "Car Insurance Fraud Detection",
         "subtitle": "Excel, Regression, Statistical Modelling & Analysis",
-        "coverimage": "/images/portfolios/portfolio-image-5.jpg",
+        "coverimage": "/images/portfolios/etc.png",
         "imagegallery": false,
         "videogallery": false,
+        "url": "FraudDetection.pdf",
         "filters": ["data"]
+    },
+
+    {
+        "id": 6,
+        "title": "General Purpose Computing on GPU's",
+        "subtitle": "Parrallel Programming, CUDA",
+        "coverimage": "/images/portfolios/cuda.png",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://github.com/dhivyan27/Computing_on-GPU",
+        "filters": ["eng"]
     }
+
+
 ]
