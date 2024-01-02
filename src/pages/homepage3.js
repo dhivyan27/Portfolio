@@ -20,7 +20,7 @@ const Homepage1 = ({ posts }) => {
   return (
     <Layout>
       <Head>
-        <title>Bieber - React Personal Portfolio Template</title>
+        <title>dhivyansureshkumar.com</title>
       </Head>
 
       {/* Start Hero Section */}
