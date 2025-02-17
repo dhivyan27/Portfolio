@@ -34,7 +34,7 @@ const AboutSection = () => {
   Feel free to connect with me if youre interested in discussing my experiences, sharing insights, or exploring collaborations. You can reach me via email, LinkedIn, or connect on Discord. All my contact information is found on the contact page. Also, do check out my GitHub to explore my projects and contributions to the tech community.
 </p>
 
-        <a href="/Dhivyan Sureshkumar.pdf" className="btn mt-3">
+        <a href="/Dhivyan_Sureshkumar.pdf" className="btn mt-3">
           <span>Download Resume</span>
         </a>
       </motion.div>
