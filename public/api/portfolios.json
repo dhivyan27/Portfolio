@@ -59,6 +59,17 @@
         "videogallery": false,
         "url": "https://github.com/dhivyan27/Computing_on-GPU",
         "filters": ["eng"]
+    },
+
+    {
+        "id": 7,
+        "title": "Guitar Hero-Style Game",
+        "subtitle": "Functional Reactive Programming, Javascript",
+        "coverimage": "/images/portfolios/GuitarHero.png",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://github.com/dhivyan27/Guitar-Hero",
+        "filters": ["eng"]
     }
 
 

@@ -2,19 +2,19 @@
     {
         "id": 1,
         "title": "Software Engineering",
-        "text": "I find a profound sense of fulfillment in Software Engineering, delving into the intricate layers of coding and system design, and bringing to life efficient and innovative solutions.",
+        "text": "I love the challenge of software engineering—breaking down complex problems, writing clean code, and designing systems that are both efficient and impactful. It’s where creativity meets logic, and I thrive in that space.",
         "icon": "/icons/code-s-slash-line.svg"
     },
     {
         "id": 2,
         "title": "Machine Learning",
-        "text": "My enthusiasm for Machine Learning stems from a desire to unravel complex algorithms and harness the power of data to create intelligent systems that can learn and adapt.",
+        "text": "I’m drawn to machine learning because it’s like teaching machines to think—turning raw data into systems that can learn, adapt, and solve problems in ways that feel almost human.",
         "icon": "icons/bar-chart.svg"
     },
     {
         "id": 3,
         "title": "Data Science",
-        "text": "In Data Science, I am captivated by the challenge of extracting meaningful insights from vast datasets, using statistical models and analytics to unlock patterns and drive informed decisions.",
+        "text": "Data science excites me because it’s about finding stories hidden in numbers. I love the process of digging into messy datasets, uncovering patterns, and turning them into actionable insights that can shape decisions.",
         "icon": "/icons/pie-chart.svg"
     }
 ]

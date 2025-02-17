@@ -22,16 +22,8 @@ const AboutSection = () => {
           Hi, I am <span className="text-primary">{data.fullName}</span>
         </h3>
         <p className="mt-4 text-md lg:text-md">
-  I am a dedicated and passionate individual currently pursuing a Bachelor of Commerce and Computer Science, majoring in Business Analytics and Advanced Computer Science at Monash University.
-</p>
-<p className="mt-4 text-md lg:text-md">
-  Separate from my academic journey, I had the great opportunity to intern at Canva as a Data Scientist, where I explored Canva’s integration with Google Workspace. I also interned at Deloitte as a Data Analyst, offering me invaluable insights into business analytics and data strategies. Further enriching my practical knowledge, I interned at WSP Digital as a software engineer, diving deeper into the digital aspects of engineering and technology.
-</p>
-<p className="mt-4 text-md lg:text-md">
-  My enthusiasm for machine learning and software engineering is not just confined to work. I actively participate in various clubs and extracurricular activities, notably as the Director of IT at Impetus Consulting Group, where I blend leadership with technology and as a High Performance Computing Engineer at Monash DeepNeuron, where we solve computationally complex problems using parallelism. My interest in competitive programming keeps me engaged and continuously learning, ensuring I am always up-to-date with the latest technological advancements.
-</p>
-<p className="mt-4 text-md lg:text-md">
-  Feel free to connect with me if youre interested in discussing my experiences, sharing insights, or exploring collaborations. You can reach me via email, LinkedIn, or connect on Discord. All my contact information is found on the contact page. Also, do check out my GitHub to explore my projects and contributions to the tech community.
+        I’m a Data Scientist at Canva, where I focus on turning data into impactful solutions. Previously, I interned at Deloitte and WSP Digital, honing my skills in analytics and software engineering. I hold a Bachelor’s in Commerce and Computer Science from Monash University, with majors in Business Analytics and Advanced Computer Science. 
+        Outside of work, I enjoy competitive programming and contributing to the tech community. Feel free to connect or explore my projects on GitHub!
 </p>
 
         <a href="/Dhivyan_Sureshkumar.pdf" className="btn mt-3">
