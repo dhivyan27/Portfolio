@@ -38,7 +38,7 @@ const MobileFullmenu = ({ fullMenuHandler }) => {
               </Link>
             </li>
             <li className="block">
-              <Link href="/Dhivyan Sureshkumar.pdf">
+              <Link href="/Dhivyan_Sureshkumar.pdf">
                 <a
                   className="group relative inline-block cursor-pointer overflow-hidden py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                   onClick={(e) => fullMenuHandler(false)}
